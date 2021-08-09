@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanthoshBanavath
-- 👀 I’m interested in web development
+- 👀 I’m interested in creating web applications.
 - 📫 You can reach me on santhoshb789123@gmail.com
 
 <!---
